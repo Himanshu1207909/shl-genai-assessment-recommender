@@ -1,4 +1,4 @@
-#SHL GenAI Assessment Recommendation System
+SHL GenAI Assessment Recommendation System
 
 This project implements a Generative AI–based retrieval system to recommend
 relevant SHL assessments for a given hiring query or job description.
